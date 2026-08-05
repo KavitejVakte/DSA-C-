@@ -8,7 +8,10 @@ int main(){
     cout<<"Mahendra\n";
     return 0 ;
 }
-
+ // Variables can start from alphabet or _
+ // Special characters except _ are not allowed
+ // Blanks,commas not allowed
+ // Keywords not allowed
 
 
 
