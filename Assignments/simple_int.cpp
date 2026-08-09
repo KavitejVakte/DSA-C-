@@ -9,8 +9,6 @@ int main(){
     cout<<"Enter Time:"; 
     cin>>t;
 
-    float simple_interest = p*r*t/100;
-    cout<<"Simple Interest: "<<simple_interest;
-
-    return 0;
-}
+    float si =(p*r*t)/100;
+    cout<<"simple intrest is;"<<si;
+} 
